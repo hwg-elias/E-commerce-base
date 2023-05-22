@@ -1,4 +1,4 @@
-# Nest Commerce 👊
+# Nest Commerce 💼
 
 "Nest Commer" is intended to enable the registration of the punch in and punch out of a company. With a simple user registration and login you can add product if with the admin role or buy things that are in your cart. This is a project based in an article named [How to build an ecommerce app with NestJS](https://blog.logrocket.com/how-build-ecommerce-app-nestjs/) and with some ideas and implementation of data and class validation the project came out like this.
 It's something small and simple, but it's worth practicing different ideas. (More updates coming soon)
