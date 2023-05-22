@@ -13,8 +13,6 @@ Route of create user and login with accounts are default at this point, however 
 
 ## How to start?
 
-At first, to initialize the project you can use teminal command ```yarn start``` by default, however it does not prevent you from being able to use ```npm``` as well if configured.
-
 The project relies on using secrets and database string connection to configure right is required to change [.env_example]() name to ".env" only and alter the informations inside to yours, then use terminal command ```yarn start:dev``` (Is just an recommendation, feel free to start however you like).
 
 <h2 align='center'>Autor</h2>
